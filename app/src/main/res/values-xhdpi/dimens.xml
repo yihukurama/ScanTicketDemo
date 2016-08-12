@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="scan_bottom_high">72dp</dimen>
+    <dimen name="scan_text_bo">80dp</dimen>
+    <dimen name="size_13">12sp</dimen>
+    <dimen name="size_14">13sp</dimen>
+    <dimen name="size_15">13sp</dimen>
+    <dimen name="size_16">20sp</dimen>
+    <dimen name="slect_item_check_right">30dp</dimen>
+</resources>

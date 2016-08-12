@@ -1,0 +1,9 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw600dp devices (e.g. 7" tablets) here.
+    -->
+    <dimen name="scan_text_bo">20dp</dimen>
+    <dimen name="scan_bottom_high">14dp</dimen>
+</resources>

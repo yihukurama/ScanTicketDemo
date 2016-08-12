@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="wait_dialog_title">Please wait for a while…</string>
+    <string name="request_method_not_allow">The request method was not server allows.</string>
+    <!-- 环信提示 -->
+    <string name="no_this_user">当前聊天的好友或圈子尚未加载</string>
+    <string name="HXconnectionerror">无法连接到聊天服务器，请检测网络连接是否正常</string>
+    <string name="forceLogout">下线通知</string>
+    <string name="forceLogoutContent">您的帐号在其他设备登录，本机已下线。如非本人操作，请及时修改您的登录密码。</string>
+
+    <string name="barcodeerror">条码格式不符合商品条码规范</string>
+    <string name="invalidUrl">该商品没有链接信息</string>
+    <string name="responseSuccess">反馈成功</string>
+    <string name="responseDetail">您的反馈已收到，我们会尽快处理，感谢您的关注。</string>
+    <string name="app_name">模拟POS系统</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="strPoint">小圆点</string>
+    <string name="agreement">请认真阅读协议并同意使用</string>
+    <string name="mflistview_footer_normal_text">加载更多</string>
+    <string name="mflistview_footer_ready_text">释放加载</string>
+    <string name="mflistview_header_refreshing_text">正在更新……</string>
+    <string name="mflistview_header_ready_text">松开即可更新</string>
+    <string name="mflistview_header_normal_text">下拉即可更新</string>
+    <string name="softwareUseProtocol">《爱查软件使用协议》</string>
+    <string name="register_text">点击上面的 "注册" 按钮，即表示你同意《爱查软件使用协议》</string>
+    <string name="loginNow">已有账号，直接登录</string>
+    <string name="removeItem">Remove</string>
+    <string name="follow">关注</string>
+    <string name="unFollow">取消关注</string>
+    <string name="hadFollow">已关注</string>
+    <string name="hadUnFollow">已取消关注</string>
+    <string name="delChatHistory">删除聊天记录</string>
+    <string name="ieCheckService">爱查客服</string>
+    <string name="stickyOnTop">置顶聊天</string>
+    <string name="removeFromTop">取消置顶</string>
+    <string name="hadStickyOnTop">已置顶</string>
+    <string name="hadRemoveFromTop">已取消置顶</string>
+    <string name="markAsRead">标为已读</string>
+    <string name="markAsUnread">标为未读</string>
+    <string name="newMessageAlerts">接收新消息通知</string>
+    <string name="newMessageUnalerts">新消息不通知</string>
+    <string name="functionBuild">该功能还在完善中…</string>
+    <string name="receivedSMS">收到短信</string>
+    <string name="smsContent">，我正在使用爱查app辨别商品系统真伪，它是市场上最强的防伪体系，推荐一下，下载页面http://www.iecheck.com/app/d?from=share</string>
+    <string name="chazhenwei">查真伪</string>
+    <string name="addwebsite">添加网站</string>
+    <string name="aibijia">爱比价</string>
+    <string name="tianjiahaoyou">请扫描好友爱查二维码</string>
+    <string name="china">中国</string>
+    <string name="bijia">比价</string>
+    <string name="comment">评论</string>
+    <string name="slogan">查真假 用爱查</string>
+    <string name="nichen">昵称</string>
+    <string name="picture">图片</string>
+    <string name="querying">正在查询…</string>
+    <string name="logining">正在登录…</string>
+    <string name="wait">请稍后…</string>
+    <string name="checksuccess">验证成功,正在绑定…</string>
+    <string name="handling">正在处理…</string>
+    <string name="camerabrowse_aty_checking">正在校验…</string>
+    <string name="priceimport_aty_uploading">正在提交…</string>
+    <string name="search_success">查询成功！</string>
+    <string name="token_fail">登录身份过期,请登重新登录</string>
+    <string name="share">分享</string>
+    <string name="share_content">查真伪，抢红包，马上下载爱查App</string>
+    <string name="share_imagelink">http://testpic.iecheck.com/pic/brand/wuliangye/product/logos/iecheck_logo3.png</string>
+    <string name="share_website">http://www.iecheck.com/app/d?from=share</string>
+    <string name="camerabrowse_aty_selectpic">请选择一张图片</string>
+    <string name="msgchat_adt_hasread">已阅读</string>
+    <string name="cameraDepot_aty_nostore">暂无外部存储</string>
+    <string name="integralreturn_needinputname">请输入正确的姓名</string>
+    <string name="integralreturn_needphone">请输入11位有效的手机号码</string>
+    <string name="integralreturn_needinputmessage">请将所有信息补充完整</string>
+    <string name="integralreturn_toushufail">投诉失败，请重新投诉</string>
+    <string name="qrcodee_aty_cannotusecamera">无法连接到相机,请检查是否被占用或限制了爱查的拍照权限。</string>
+    <string name="qrcodee_aty_searchfriendfail">搜索好友失败，非好友爱查二维码。</string>
+    <string name="qrcodee_aty_codeerro">有误，二维码有污损或数据已过期</string>
+    <string name="qrcodee_aty_serverdataerro">哎呀，网络有点着急，请稍后重试...</string>
+    <string name="qrcodee_aty_upknowpic">无法识别图片</string>
+    <string name="qrcodee_aty_hascooy">已复制到剪贴板</string>
+    <string name="qrcodee_aty_picfamaterro">图片格式错误</string>
+    <string name="qrcodee_aty_getcodeerro">扫码获取信息失败</string>
+    <string name="qrcodee_aty_addfriendfail">添加好友失败</string>
+    <string name="aichamabijianodata">不存在此码信息,这是伪造标,无法比价</string>
+    <string name="aibijiahistorynodata">该次扫描的码为伪造爱查二维码</string>
+    <string name="findloginpwd">找回登录密码</string>
+    <string name="pwdLogin">密码登录</string>
+    <string name="msmCodeLogin">短信验证登录</string>
+    <string name="msmcodecheck">短信验证</string>
+    <string name="check">验证</string>
+    <string name="checkAndLogin">验证并登录</string>
+    <string name="msmcode">短信校验码</string>
+    <string name="needcheckphone">需要验证手机号码</string>
+    <string name="getmsmcode">获取验证码</string>
+    <string name="checkcodefail">验证码错误或过期,请重试</string>
+    <string name="hassendcode">已发送验证码,请查收</string>
+    <string name="sendto">已向</string>
+    <string name="getcodetips">发送短信,请在输入框中填写短信验证码.</string>
+    <string name="inputcode">请输入验证码</string>
+    <string name="bindbankcardsuccess">绑定银行卡成功</string>
+    <string name="regetcode">重新获取</string>
+    <string name="miaohouresend">秒后重发</string>
+    <string name="loginsuccess">登录成功</string>
+    <string name="loginpwd">设置登录密码</string>
+    <string name="resetloginpwd">重置登录密码</string>
+    <string name="inputloginpwd">输入登录密码</string>
+    <string name="inputaccount">请输入手机号/爱查号</string>
+    <string name="inputphone">请输入手机号</string>
+    <string name="inputrightaccount">请输入正确手机号</string>
+    <string name="inputrightphone">请输入正确手机号</string>
+    <string name="inputpwd">请输入密码</string>
+    <string name="inputcurrentpwd">请输入正确的当前密码</string>
+    <string name="inputpwd2">请再次输入密码</string>
+    <string name="inputnewpwd">请输入新密码并确认新密码</string>
+    <string name="notthesame">两次密码不一致</string>
+    <string name="hasregest">您手机号已经注册,请直接登录</string>
+    <string name="phoneNOerror">请输入正确的手机号</string>
+    <string name="regestbyphone">使用手机号注册</string>
+    <string name="changdubuzu">你的输入长度不足8位</string>
+    <string name="daancuowu">答案错误,请核对再试</string>
+    <string name="logout_ok">注销成功</string>
+    <string name="yijianfankui">意见反馈</string>
+    <string name="gongnengjieshao">功能介绍</string>
+    <string name="jieshaoneirong">\t\t爱查软件是一款供消费者使用的防伪平台客户端软件。它可以通过扫描二维码得知商品真伪信息，可以通过扫描条形码进行比价，可以通过与品牌客服直接联系反馈消费者真正的建议。还可以通过爱查好友体系平台来建立起消费者的小圈子，进行交流。最吸引人的就是扫码后抢到的红包可直接兑换话费或现金。</string>
+    <string name="lianxikefu">联系客服</string>
+    <string name="qingxiantianxiefankuineirong">请先填写反馈内容</string>
+    <string name="checkingVersion">正在检查版本信息</string>
+    <string name="nonewversion">当前已经是最新版本</string>
+    <string name="msg_type_pic">[图片]</string>
+    <string name="msg_type_vedio">[视频]</string>
+    <string name="msg_type_voice">[语音]</string>
+    <string name="msg_type_location">[位置]</string>
+    <string name="msg_type_link">[链接]</string>
+    <string name="msg_type_namecard">[名片]</string>
+    <string name="msg_type_face">[表情]</string>
+    <string name="msg_type_picmsg">[图文消息]</string>
+    <string name="msg_type_buylist">[购物记录]</string>
+    <string name="msg_type_complaints">[被投诉记录]</string>
+    <string name="msg_type_unknown">[未知类型]</string>
+    <string name="msg_type_red">[爱查红包]</string>
+    <string name="noSupportType">当前版本不支持该消息类型</string>
+    <string name="sendmsghint">点击获取按钮，将发送短信验证码到手机号码：</string>
+    <string name="hadsendmsghint">已发送短信到该号码，请在输入框中填写短信验证码。</string>
+    <string name="no_contactsData">爱查服务器上没有您的手机通讯录信息。</string>
+    <string name="resetPswHint">未注册的手机号将默认同意《爱查软件使用协议》并创建为新账号。</string>
+    <string name="cuanhuobangding">窜货绑定</string>
+    <string name="associatedSuccess">绑定成功</string>
+    <string name="associatedSuccessHint">该箱已成功和“#name#”绑定,请继续扫描绑定！</string>
+    <string name="associatedErr">绑定失败</string>
+    <string name="cuanhuoshujubangding">窜货数据绑定</string>
+    <string name="chbd_capture_hint">当前选择的是“#name#”\n将二维码放入框内，即可扫描绑定</string>
+    <string name="chbd_capture_hint_noname">将二维码放入框内，即可扫描绑定</string>
+    <!-- 时间 -->
+    <string name="time_today">今天  </string>
+    <string name="time_yesterday">昨天  </string>
+    <string name="time_day_beforeyesterday">前天  </string>
+    <string name="time_mon">个月前</string>
+    <string name="time_year">年前</string>
+    <string name="time_day">天前</string>
+    <string name="time_hour">小时前</string>
+    <string name="time_min">分钟前</string>
+    <string name="time_justnow">刚刚</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+
+    <!-- 查商品 -->
+    <string name="updateHintTitle">爱查版本较低</string>
+    <string name="updateHint">当前爱查版本较低，无法正常使用扫码功能，请更新软件后使用。</string>
+    <string name="update">更新</string>
+    <string name="noShoppingRecords">暂无购物记录</string>
+    <string name="shoppingRecords">购物记录</string>
+    <string name="goodsName">商品名称</string>
+    <string name="yuan">元</string>
+    <string name="from">来自</string>
+    <string name="buyTime">购买时间</string>
+    <string name="trueId">真品编号</string>
+    <string name="search_goods">搜索商品</string>
+    <string name="gouwudaohang">购物导航</string>
+    <string name="goumaigoods">购买商品</string>
+    <string name="netcomment">网上商城评论</string>
+    <string name="peoplecomment">爱查网友评论</string>
+    <string name="noNetcomment">没有网上商城评论</string>
+    <string name="noPeoplecomment">没有网友评论</string>
+    <string name="nomorecomment">没有更多的评论</string>
+    <string name="nocommentrecord">目前没有任何评论记录</string>
+    <string name="Comment_frg_nothisgoods">此商品品牌暂未加入爱查客服系统</string>
+    <string name="netprice">网上商城报价</string>
+    <string name="peopleprice">网友报价</string>
+    <string name="noNetPrice">没有网上商城报价</string>
+    <string name="noPeoplePrice">没有网友报价</string>
+    <string name="nomoreprice">没有更多的报价</string>
+    <string name="nopricerecord">没有更多相关报价记录</string>
+    <string name="History_aty_bijialishi">比价扫描历史</string>
+    <string name="History_aty_chazhenwei">真伪查询历史</string>
+    <string name="History_aty_nomorehistory">没有更多历史记录</string>
+    <string name="History_aty_nohistorycord">没有更多相关历史记录</string>
+    <string name="History_aty_noifomation">无法获取扫码信息</string>
+    <string name="Historyresult_scanresult">扫描结果</string>
+    <string name="scanresult_aty_forge">如果您不知道首次扫描的情况,\n则此防伪标是伪造的,请联系客服</string>
+    <string name="withdraw_aty_code">退分验证码</string>
+    <string name="upload_commodity_pic">上传商品图片</string>
+    <string name="pricedetail_aty_pricedetail">报价详情</string>
+    <string name="priceimport_aty_myprice">我的价格</string>
+    <string name="priceimport_aty_shen">省</string>
+    <string name="priceimport_aty_selectshen">请先选择省份!</string>
+    <string name="priceimport_aty_importgoodsname">请输入产品名称!</string>
+    <string name="priceimport_aty_importprice">请输入产品价格!</string>
+    <string name="priceFormaterror">请输入有效的价格</string>
+    <string name="priceimport_aty_importshop">请输入购买商家!</string>
+    <string name="priceimport_aty_importarea">请选择地区!</string>
+    <string name="priceimport_aty_uploadsuccess">提交成功</string>
+    <string name="priceimport_aty_uploadfail">提交失败</string>
+    <string name="ganxiefankui">感谢您的反馈!</string>
+    <string name="publishcomment_aty_selectpicfail">图片选择失败,请重新选择</string>
+    <string name="publishcomment_aty_comment">发表评论</string>
+    <string name="publishcomment_aty_commentsuccess">发表成功</string>
+    <string name="publishcomment_aty_needselectcomment">请选择评价!</string>
+    <string name="publishcomment_aty_needcommentcontent">请输入您的评价内容!</string>
+    <string name="publishcomment_aty_picisuploading">图片还在上传，请稍后</string>
+    <string name="publishcomment_aty_picisnouploading">请上传商品图片</string>
+    <string name="publishcomment_aty_picisuperr">图片上传失败，请点击重新上传</string>
+    <string name="publishcomment_aty_cancelupload">是否取消上传!</string>
+    <string name="publishcomment_aty_picsavefail">手机本地照片保存失败，请重新拍照</string>
+    <string name="scanregister_aty_inputsize">请输入品牌型号!</string>
+    <string name="data_error">数据出错！</string>
+    <string name="data_error_pleasewait">数据出错！请稍后再试</string>
+    <string name="error">出错</string>
+    <string name="loading_fail">加载失败</string>
+    <string name="crop_aty_picerro">图片错误</string>
+    <string name="switch_scan_type_1d">扫条形码</string>
+    <string name="switch_scan_type_2d">扫二维码</string>
+    <string name="scan_tips1">将二维码放入框内，即可自动扫描</string>
+    <string name="scan_tips2">将二维码/条码放入框内，即可自动扫描</string>
+    <string name="shoucisaoanmashijian">首次扫暗码时间</string>
+    <string name="action_select">Select</string>
+    <string name="crop__saving">Saving picture…</string>
+    <string name="crop__wait">Please wait…</string>
+    <string name="crop__pick_error">No image sources available</string>
+    <string name="crop__done">DONE</string>
+    <string name="crop__cancel">Cancel</string>
+    <string name="password_regular">,.`~!@#$%^*()_+-=01234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM</string>
+    <string name="integral">金额</string>
+    <string name="exchange">兑换话费：</string>
+    <string name="exmoney">兑换现金：</string>
+    <string name="gift">转赠余额：</string>
+    <string name="returned">退货退奖</string>
+    <string name="history">历史记录</string>
+    <string name="historyDetail">历史详情</string>
+    <string name="bankCard">银行卡</string>
+    <string name="sweepstakes">商家活动</string>
+    <string name="publicService">便民服务</string>
+    <string name="hadParticipatedIn">参与过的</string>
+    <string name="creditsexist">已生效红包：</string>
+    <string name="creditscanbechanged">可使用余额：</string>
+    <string name="noless">(不低于10元)</string>
+    <string name="chooseChargeMoney">请选择充值的面额</string>
+    <string name="chooseExMoney">请选择兑换的金额</string>
+    <string name="extimetoarrive">兑换金额在2个工作日内到账</string>
+    <string name="inputChargeNum">请输入充值手机号</string>
+    <string name="myPhoneNum">当前账户号码</string>
+    <string name="timetoarrive">充值话费在1个工作日内到账</string>
+    <string name="certain">确定</string>
+    <string name="mybancard">我的银行卡</string>
+    <string name="chooseMyBancard">选择提现的银行卡</string>
+    <string name="noBancard">还没有您的银行卡信息，请先到\n“我的银行卡”绑定</string>
+    <string name="addcardnumber">添加银行卡</string>
+    <string name="exchange_no">交易号</string>
+    <string name="exchange_ok">交易成功</string>
+    <string name="exchange_err">交易失败</string>
+    <string name="exchange_goon">进行中...</string>
+    <string name="exchange_back">失败返还金额</string>
+
+    <!-- 聊天 -->
+    <string name="del_chatitem">删除该聊天</string>
+    <string name="del_success">删除成功</string>
+    <string name="del_error">删除失败</string>
+    <string name="get_friendinfo_fail">获取好友信息失败</string>
+    <string name="noingroup">你已经退出了该圈子</string>
+    <string name="get_groupinfo_fail">获取圈子信息失败</string>
+    <string name="del_chathistory">聊天记录已清除</string>
+    <string name="del_groupfriend_success">移除成员成功</string>
+    <string name="out_group_success">退出圈子成功</string>
+    <string name="in_group_success">加入圈子成功</string>
+    <string name="setting_ok">设置成功</string>
+    <string name="setting_fail">设置失败</string>
+    <string name="upload_fail_casememery">内存不足，上传失败</string>
+    <string name="qin_send_null">请先输入聊天内容</string>
+    <string name="qin_hasload_all">没有更多聊天记录了</string>
+    <string name="cannot_find_pic">找不到您要的图片</string>
+    <string name="cannot_find_video">找不到您要的视频</string>
+    <string name="record_video_err">录制视频失败</string>
+    <string name="cannot_find_location">找不到您的位置信息</string>
+    <string name="sendfail_casenotfriend">你还不是对方好友，是否重新发起好友验证请求？</string>
+    <string name="sendAddRequest">发送好友验证</string>
+    <string name="sendfail_casereject">发送失败，对方已拒绝接收消息</string>
+    <string name="out_blacklist">移出黑名单</string>
+    <string name="out_blacklist_success">移出黑名单成功</string>
+    <string name="in_blacklist">加入黑名单</string>
+    <string name="in_blacklist_success">加入黑名单成功</string>
+    <string name="option_fail">操作失败，请稍后再试</string>
+    <string name="del_friend_success">已成功删除好友</string>
+    <string name="del_friend_fail">删除好友失败</string>
+    <string name="beizhu_friend_success">已成功备注好友</string>
+    <string name="beizhu_friend_fail">备注好友失败</string>
+    <string name="frienddetail_dig_outblacklistinfo">该好友已经在黑名单中，把他移出黑名单？</string>
+    <string name="frienddetail_dig_inblacklistinfo">加入黑名单，你将不再收到对方发送的消息。</string>
+    <string name="frienddetail_dig_delfriend">删除好友</string>
+    <string name="frienddetail_dig_delfriendinfo">将删除该好友，同时删除与该好友的聊天记录</string>
+    <string name="select_aty_searchinfo">请搜索好友昵称关键字</string>
+    <string name="select_aty_selectgroupmember">请选择要邀请的成员</string>
+    <string name="select_aty_nonamegroup">未命名圈子</string>
+    <string name="select_aty_resulthasout">搜索结果已在列表</string>
+    <string name="select_aty_addmembersucess">成功添加新成员,开始聊天吧</string>
+    <string name="select_aty_creategrouperro">操作失败，请稍后重试。</string>
+    <string name="chatmore_aty_chatdetail">聊天详情</string>
+    <string name="chatmore_aty_begingroupchat">发起圈子</string>
+    <string name="chatmore_aty_groupinfo">圈子信息</string>
+    <string name="chatmore_aty_chatinfo">聊天详情</string>
+    <string name="chatmore_aty_hasopen">已打开</string>
+    <string name="chatmore_aty_hasclose">已关闭</string>
+    <string name="chatmore_aty_sureout">你确定退出该圈子吗？</string>
+    <string name="chatmore_aty_closeout">删除并退出</string>
+    <string name="chatmore_aty_cannot_add_twice">不能重复添加</string>
+    <string name="chatmore_aty_you_are_not_groupmember">您已不在此圈子</string>
+    <string name="chatmore_aty_please_del_all_member">成员还在，圈主不能执行此操作</string>
+    <string name="chatmore_aty_group_notexist">该圈子不存在</string>
+    <string name="chatmore_aty_account_erro">帐号错误</string>
+    <string name="chatmore_aty_count_erro">添加失败，超过上限人数</string>
+    <string name="chatservice_aty_type_face">表情</string>
+    <string name="chatservice_aty_type_manychat">多人会话</string>
+    <string name="chatservice_aty_type_addfriend">邀请好友</string>
+    <string name="chatservice_aty_type_vedio">视频</string>
+    <string name="chatservice_aty_type_luckyMoney">红包</string>
+    <string name="chatservice_aty_type_location">位置</string>
+    <string name="chatservice_aty_takephoto">拍照</string>
+    <string name="chatservice_aty_takevideo">拍摄视频</string>
+    <string name="chatservice_aty_selectfromphone">从手机中选择</string>
+    <string name="chatservice_aty_pressSpeak">按住 说话</string>
+    <string name="chatservice_aty_putupStop">松开 结束</string>
+    <string name="chatservice_aty_figersilp">手指上滑,取消发送</string>
+    <string name="chatservice_aty_putupfiger">松开手指,取消发送</string>
+    <string name="Recording_without_permission">请检查是否禁止了爱查的录音权限</string>
+    <string name="The_recording_time_is_too_short">录音时间太短了</string>
+    <string name="send_failure_please">发送失败</string>
+    <string name="getFriendInfoErr">加载好友信息失败，请稍后重试！</string>
+    <string name="getFriendInfoIng">加载好友信息...</string>
+    <string name="storageSpaceIsNotEnough">手机存储空间不足</string>
+
+    <!-- 积分 -->
+    <string name="selectbank">选择开户银行</string>
+    <string name="selectcardtype">选择卡类型</string>
+    <string name="chuxuka">储蓄卡</string>
+    <string name="xinyongka">信用卡</string>
+    <string name="zhongguobank">中国银行</string>
+    <string name="gongshangbank">工商银行</string>
+    <string name="nongyebank">农业银行</string>
+    <string name="jianshebank">建设银行</string>
+    <string name="zhaoshangbank">招商银行</string>
+    <string name="delBankCard">解绑银行卡</string>
+    <string name="delBankCardHint">是否解除绑定该银行卡信息？</string>
+    <string name="delBankCardCertain">解除绑定</string>
+    <string name="delBankCardSuccess">解绑成功</string>
+    <string name="cardNumHaveBeenSave">帐号已存在</string>
+    <string name="cardNumHaveBeenSaveHint">您已经绑定过该银行卡号，重复提交将覆盖旧的信息记录，是否继续？</string>
+    <string name="cardNumHaveBeenSaveCertain">继续提交</string>
+    <string name="cardNumHaveBeenSaveCancel">不了，取消添加</string>
+    <string name="bencituihuojiangkouchujifen">本次退货将扣除红包</string>
+    <string name="inputIntegralPassword">请输入您的6位支付密码</string>
+    <string name="inputNewIntegralPassword">请输入新的6位支付密码</string>
+    <string name="inputNewIntegralPasswordAgain">请确认新的支付密码</string>
+    <string name="passwordformatwrong">密码不符合要求</string>
+    <string name="passwordwrong">密码错误，请重新输入</string>
+    <string name="idwrong">证件号不对，请重新输入</string>
+    <string name="integralFormaterror">请输入有效的金额</string>
+    <string name="donotgetintegral">正在获取账户信息，请稍后...</string>
+    <string name="vistor">游客</string>
+    <string name="inputnumber">请输入兑换金额</string>
+    <string name="jifenyue">总余额</string>
+    <string name="moneyCannotNull">请选择兑换金额</string>
+    <string name="moneyNeedDayu10">兑换金额不低于10元</string>
+    <string name="integralnotenght">账户余额不足</string>
+    <string name="numberneeddayu100">兑换金额不能低于100元</string>
+    <string name="changeExchangeWay">更换方式</string>
+    <string name="exchange2bank">提现到银行卡</string>
+    <string name="exchange2alipay">提现到支付宝</string>
+    <string name="alipayInfoNotNull">支付宝账号和姓名不能为空</string>
+    <string name="bankCardNotNull">请选择要提现到的银行卡</string>
+    <string name="numberneeddayu2">转赠金额最小不能小于0.01元</string>
+    <string name="numberneedxiaoyu3">转赠金额不能大于1000元</string>
+    <string name="giftintegralcannotbenull">赠送金额不能为空</string>
+    <string name="needaccount">请选择要赠与的好友</string>
+    <string name="xindejifenmima">新的支付密码</string>
+    <string name="querenjifenmima">确认支付密码</string>
+    <string name="liangcimimabuyizhi">两次输入密码不一致，请重新输入</string>
+    <string name="tuihuotuifendengji">退货退奖信息登记</string>
+    <string name="tousu">投诉</string>
+    <string name="tousuyuanyin">请输入投诉原因</string>
+    <string name="tousuchenggong">您的投诉已提交，我们会尽快处理</string>
+    <string name="tousushibai">提交投诉失败</string>
+    <string name="tuihuoyuanyin">请输入退货原因</string>
+    <string name="goumaidizhi">请输入购买地址</string>
+    <string name="inputerro">请保证输入正确</string>
+    <string name="resetplease">请重新设置</string>
+    <string name="xiugaijifenmima">修改支付密码</string>
+    <string name="shezhijifenmima">设置支付密码</string>
+    <string name="nodata">未获取数据</string>
+    <string name="jifenbiandong">余额变动</string>
+    <string name="addbankcard_bankname">银行名称</string>
+    <string name="addbankcard_selectbankinfo">请选择开户行信息</string>
+    <string name="addbankcard_selectCardType">请选择卡类型</string>
+    <string name="addbankcard_inputcurrentowner">请输入正确的持卡人中文姓名</string>
+    <string name="addbankcard_inputcurrentbankcard">请输入正确的16位至19位账号</string>
+    <string name="huidawenti1">请回答问题①</string>
+    <string name="huidawenti2">请回答问题②</string>
+    <string name="huidawenti3">请回答问题③</string>
+    <string name="shuruyanzhengwenti">请输入验证问题</string>
+    <string name="nomoredata">没有更多数据</string>
+    <string name="fanhui">返回</string>
+    <string name="chongzhihaoma">充值号码</string>
+    <string name="duihuanhuafei">兑换话费</string>
+    <string name="yinhangkaweihao">银行卡尾号</string>
+    <string name="duihuanxianjin">兑换现金</string>
+    <string name="huodezengyujifen">获得赠与金额</string>
+    <string name="duifang">对方</string>
+    <string name="huozeng">获赠</string>
+    <string name="huozengjifen">获赠金额</string>
+    <string name="zengyujifen">赠与金额</string>
+    <string name="zhuanzeng">转赠</string>
+    <string name="zhuanzengjifen">转赠余额</string>
+    <string name="alipaytixian">支付宝提现</string>
+    <string name="sendluckymoney">发送红包</string>
+    <string name="luckymoneyback">红包过期退回</string>
+    <string name="getluckymoney">领取红包</string>
+    <string name="getshareluckymoney">扫码抢分享红包</string>
+    <string name="yinhangkatixian">银行卡提现</string>
+    <string name="dangshijifenyue">总余额</string>
+    <string name="goodinfo">商品信息</string>
+    <string name="cardAccounts">银行卡账号</string>
+    <string name="aliAccounts">支付宝账号</string>
+    <string name="aliName">支付宝姓名</string>
+    <string name="otherSide">对方</string>
+    <string name="exchange_status">交易状态</string>
+    <string name="exchange_time">交易时间</string>
+    <string name="exchange_num">交易单号</string>
+    <string name="fail_reason">失败原因</string>
+    <string name="point_state">生效状态</string>
+    <string name="checkLuckyMoney">查看红包</string>
+    <string name="groupInvitation">圈子邀请</string>
+    <string name="invitesU2JoinTheGroup">邀请你加入圈子</string>
+    <string name="joinTheGroup">加入圈子</string>
+    <string name="uHaveAcceptedTheInvitation">你已接受邀请</string>
+    <string name="thisInvitationHasExpired">该邀请已过期</string>
+
+    <!-- 积分模块设置支付密码对话框 -->
+    <string name="integralpswmes">您还没有设置支付密码，请先设置。</string>
+    <string name="pswensure">确认密码</string>
+    <string name="integralpsw">支付密码</string>
+    <string name="integralpswtip">密码由6位数字组成</string>
+    <string name="pswisnull">密码不能为空</string>
+    <string name="showpsw">显示密码</string>
+    <string name="nextstep">下一步</string>
+    <string name="setpswfail">请确认两次输入一致并符合规则</string>
+    <string name="pleasetype">请输入支付密码</string>
+    <string name="inputid">请输入证件号</string>
+    <string name="idtips">证件号不足8位，请重新输入</string>
+    <string name="setqufail">问题答案不能为空</string>
+
+    <!-- 积分模块银行卡 -->
+    <string name="binding">请绑定银行预留手机号为爱查登录号的银行卡</string>
+    <string name="accountbank">开户行：</string>
+    <string name="cardType">卡类型：</string>
+    <string name="accountholder">持卡人：</string>
+    <string name="cardnumber">卡账号：</string>
+    <string name="choose_bank">请选择开户银行</string>
+    <string name="phonenumber">手机号码</string>
+    <string name="hint_bankName">银行名称</string>
+    <string name="hint_bankNumber">银行卡号</string>
+    <string name="hint_cardType">选择类型</string>
+    <string name="hint_cardholder">持卡人姓名</string>
+    <string name="agree">同意</string>
+    <string name="protocol">《用户协议》</string>
+    <string name="success">操作成功</string>
+    <string name="congratulation">恭喜您，刚才的操作已成功完成！</string>
+    <string name="attention">请留意相关信息提示。</string>
+    <string name="successtoreturn">此商品获赠奖励已退回。</string>
+    <string name="creditsreturned">退回金额</string>
+    <string name="creditsreturnedscore">100</string>
+    <string name="residue">,剩余余额</string>
+    <string name="residuescore">10000</string>
+    <string name="doc">。</string>
+    <string name="showcode">请在退货时出示退货验证码。</string>
+    <string name="returnedcode">退货验证码</string>
+    <string name="returnedcodescore">12345678901</string>
+
+    <string-array name="choosewhichbank">
+        <item>中国平安银行</item>
+        <item>中国工商银行</item>
+    </string-array>
+
+    <!-- 积分模块兑换现金 -->
+    <string name="exchangeMoney">兑换现金</string>
+    <string name="creditsCanbeCharged">可兑换现金：</string>
+    <string name="howmuchwillbe">请输入兑换的金额 </string>
+    <string name="inputAlipayAccount">提现的支付宝账号（邮箱或手机号码）</string>
+    <string name="inputAlipayName">账号对应的姓名（真实姓名）</string>
+    <string name="nolessthan100">每笔不低于100元</string>
+
+    <!-- 积分模块转赠积分 -->
+    <string name="inputGiftIntegral">请输入转赠的金额 </string>
+    <string name="creditsCanbegifed">可转赠余额：</string>
+    <string name="max1000">每笔最小0.01元最大1000元</string>
+    <string name="chooseGiftTarget">请选择赠与的好友</string>
+
+    <!-- 服务器返回空数据 -->
+    <string name="servernodata">"没有相关数据"</string>
+    <string name="servernobrand">"暂时没有该品牌客服信息"</string>
+    <string name="servernomoredata">"没有更多相关记录"</string>
+
+    <!-- 系统生成 -->
+    <string name="title_activity_chat_more">ChatMoreActivity</string>
+
+    <!-- 用于表情 -->
+    <string name="add_avator">头像</string>
+
+    <!-- 更多模块 -->
+    <string name="personalinfo">个人信息</string>
+    <string name="iecheckQrcode">爱查名片</string>
+    <string name="edit">编辑</string>
+    <string name="portrait">头像</string>
+    <string name="usersname">昵称</string>
+    <string name="usernum">我的爱查号</string>
+    <string name="userphonenum">手机号</string>
+    <string name="emailbox">邮箱</string>
+    <string name="emailboxError">邮箱格式不正确</string>
+    <string name="gender">性别</string>
+    <string name="district">地区</string>
+    <string name="nickCanntNull">昵称不能为空</string>
+    <string name="personalsign">个性签名</string>
+    <string name="changepassword">修改登录密码</string>
+    <string name="changesuccess">修改成功</string>
+    <string name="changefail">修改失败</string>
+    <string name="perfectpersonalinfo">完善个人信息</string>
+    <string name="nolessthan70words">个性签名(不超过70字)</string>
+    <string name="birthday">生日（年月日）</string>
+    <string name="maindistrict">地区（国家、省、市）</string>
+    <string name="userhint">（邮箱用于找回密码，请谨慎填写）</string>
+    <string name="man">男</string>
+    <string name="female">女</string>
+    <string name="instruction">密码由6到20位英文字母、数字或符号组成</string>
+    <string name="changepwd">修改密码</string>
+    <string name="addfriends">添加朋友</string>
+    <string name="usercodenum">我的二维码</string>
+    <string name="qrcodeapp">二维码应用</string>
+    <string name="pop_photo">拍照</string>
+    <string name="pop_choose">从手机相册中选</string>
+    <string name="cannotSendYourself">无法给自己发消息</string>
+    <string name="beepSystem">系统提示音</string>
+    <string name="beepDingdong">叮咚</string>
+    <string name="beepDididi">嘀嘀嘀</string>
+    <string name="noDataPleaseUpload">还没有相关数据，请先上传</string>
+    <string name="visitingCard">名片</string>
+    <string name="schedule">日程</string>
+    <string name="line">链接</string>
+
+    <!-- 社交化信息 -->
+    <string name="share_title">来自爱查真品的分享</string>
+    <string name="share_text">牛A和牛C间的鉴定真伪App，拥有强大的辩证为和比价功能，让你购物更省心更放心。</string>
+    <string name="share_iecheck2d">这是我的爱查二维码，用爱查扫一扫关注我吧。</string>
+    <string name="share_cardtext">这是我的名片，请笑纳。</string>
+    <string name="share_linktext">发个二维码链接给你。</string>
+    <string name="share_datetext">这是我的日程。</string>
+    <string name="share_link">http://www.iecheck.com/app/d?from=share</string>
+    <string name="share_imglink">http://pic.iecheck.com/pic/link.png</string>
+
+    <!-- 治洪整理中文 -->
+
+    <string name="failedToConnect">未能连接服务器…</string>
+    <string name="exit">退出</string>
+    <string name="whetherExit">是否要退出？</string>
+    <string name="retry">重试</string>
+    <string name="timeout">请求超时</string>
+    <string name="noNetwork">无网络连接</string>
+    <string name="visitException">访问异常，请稍后再试…</string>
+    <string name="nobackgroup">没有该背景图</string>
+    <string name="networkUnstabitily">网络连接不稳定</string>
+    <string name="accessException">访问服务器出现异常，请确认客户端是否为最新版本后重试。\n如果您使用最新版本重试后依然出现这个提示，请及时联系我们，谢谢！\n原因:服务器返回异常的状态码</string>
+    <string name="parsingException">数据解析出现异常，请确认客户端是否为最新版本后重试。\n如果您使用最新版本重试后依然出现这个提示，请及时联系我们，谢谢！</string>
+    <string name="unknownException">出现未知异常，请确认客户端是否为最新版本后重试。\n如果您使用最新版本重试后依然出现这个提示，请及时联系我们，谢谢！</string>
+    <string name="city">市</string>
+    <string name="newVersion">发现新的版本</string>
+    <string name="didNotGet">未获取</string>
+    <string name="cannotGet">无法获取</string>
+    <string name="noUpdate">暂时不更新</string>
+    <string name="isLatestVersion">已经是最新的版本</string>
+    <string name="cancel">取消</string>
+
+    <!-- 版本更新VersionUpdateHelper -->
+    <string name="install">安装</string>
+    <string name="prepareinstall">正在初始化安装程序</string>
+    <string name="intoDownloadQueue">更新包已进入下载队列中</string>
+    <string name="inDownloadQueue">更新包已在下载队列中</string>
+    <string name="download_failed">更新包下载失败</string>
+    <string name="download_pause">更新包下载已暂停</string>
+    <string name="download_pause_please">下载已被暂停，请手动开启下载</string>
+    <string name="download_pending">更新包正在排队等待下载</string>
+    <string name="download_running">更新包正在下载…</string>
+    <string name="versionUpdate_title">模拟POS系统</string>
+
+    <!-- 获取定位地址LocationHelper -->
+    <string name="location_fail">获取位置失败</string>
+    <string name="location_failProvince">获取省份信息失败</string>
+    <string name="location_failCity">获取市信息失败</string>
+    <string name="location_failDistrict">获取区县信息失败</string>
+    <string name="location_failLatitude">获取纬度失败</string>
+    <string name="location_failLongitude">获取经度失败</string>
+    <string name="locationDetial">获取产品销售地区信息是防伪的重要环节，允许app的定位权限（已禁止的需手动开启），有助于爱查平台更高效的防伪打假喔~</string>
+    <string name="iknow">知道了</string>
+
+    <!-- 分享SharHelper -->
+    <string name="share_start">开始分享</string>
+    <string name="share_success">分享成功</string>
+    <string name="share_noEmpower">没有授权</string>
+    <string name="share_fail">分享失败</string>
+    <string name="share_install_WX_fest">请安装微信客户端后再分享</string>
+
+    <!-- 自定义listView -->
+    <string name="showMore">查看更多</string>
+    <string name="letGoShowMore">松开载入更多</string>
+    <string name="downRefresh">下拉刷新</string>
+    <string name="letGoRefresh">松开刷新数据</string>
+    <string name="loading">正在加载…</string>
+
+    <!-- 发请求RequestHandler -->
+    <string name="loginAgain">登录身份过期,请重新登录</string>
+    <string name="request_http_error">当前网络不可用，请检查网络设置</string>
+    <string name="checkNetworkOrRestart">请检查网络连接是否正常或稍后再试</string>
+    <string name="request_login_error">登录失败</string>
+    <string name="request_logout_error">注销失败</string>
+    <string name="request_smscode_error">获取验证码失败</string>
+    <string name="request_check_error">验证失败</string>
+    <string name="request_personInfo_error">获取个人信息失败</string>
+    <string name="request_integralInfo_error">获取账户详情失败</string>
+    <string name="request_BrandId_error">获取品牌客服Id失败</string>
+    <string name="request_get_error">获取失败</string>
+    <string name="request_send_error">发送失败</string>
+    <string name="request_action_success">操作成功</string>
+    <string name="request_action_error">操作失败</string>
+    <string name="request_actionSynFail">操作同步失败</string>
+
+    <!-- 全局搜索globalsearch -->
+    <string name="input_KeyWord">请输入关键字</string>
+    <string name="searching">正在搜索…</string>
+    <string name="noMoreResult">没有更多结果</string>
+    <string name="title_Brand">相关品牌</string>
+    <string name="title_Contacts">相关联系人</string>
+    <string name="title_Group">相关圈子</string>
+    <string name="title_ChatHistory">相关聊天记录</string>
+    <string name="type_Brand">相关品牌</string>
+    <string name="type_Contacts">相关联系人</string>
+    <string name="type_Group">相关圈子</string>
+    <string name="type_ChatHistory">相关聊天记录</string>
+    <string name="footer_moreBrand">更多相关品牌</string>
+    <string name="footer_moreContacts">更多相关联系人</string>
+    <string name="footer_moreGroup">更多相关圈子</string>
+    <string name="footer_moreChatHistory">更多相关聊天记录</string>
+    <string name="content_relatedMsg">条相关记录</string>
+    <string name="fileTooLarge">文件过大</string>
+    <string name="backgroundfileTooLarge">背景图片过大</string>
+    <string name="setbackgroundsuccess">设置背景图片成功</string>
+    <string name="recordError">不能录音，你的手机限制了爱查的录音功能。请在系统权限中开启此功能</string>
+
+    <!-- MainActivity -->
+    <string name="ieCheck">模拟POS系统</string>
+    <string name="checkGoods">查商品</string>
+    <string name="checkTrademark">查品牌</string>
+    <string name="loveGroup">爱圈子</string>
+    <string name="loveIntegral">爱红包</string>
+    <string name="brandService">品牌客服</string>
+    <string name="consumerGroup">消费圈子</string>
+    <string name="checkYouNet">亲，请确保您的网络有效连接我们才能更好地提供服务哦</string>
+    <string name="noSdCard">没有SD卡，将影响部分功能正常使用</string>
+    <string name="againExit">再按一次返回键，就会退出爱查客户端</string>
+    <string name="sayHello">打招呼</string>
+    <string name="receiveFriendAdd">您收到好友的添加请求</string>
+    <string name="receiveNewMsg">您收到新的消息</string>
+
+    <!-- 群通知所用(不能复用) -->
+    <!-- A invited B toTheGroupChat -->
+    <!-- A joinedTheGroupViaThe QR CodeSharedBy B --><!-- A 通过扫描 B 分享的二维码加入圈子 -->
+    <!-- A removed B fromTheGroupChat -->
+    <!-- A hasQuitTheGroupChat -->
+    <!-- A changedTheGroupNameTo B -->
+    <string name="you">你</string>
+    <string name="invited">邀请</string>
+    <string name="toTheGroupChat">加入了圈子</string>
+    <!--<string name="joinedTheGroupVhia">通过扫描</string>-->
+    <!--<string name="viaTheQRCodeSharedBy">分享的二维码加入圈子</string>-->
+    <string name="removed">将</string>
+    <string name="fromTheGroupChat">移出了圈子</string>
+    <string name="hasQuitTheGroupChat">退出了圈子</string>
+    <string name="changedTheGroupNameTo">修改圈子名为</string>
+
+    <!-- 以下为module位置 -->
+
+
+    <!-- addfriends -->
+    <string name="getingLocalContacts">正在获取本地联系人…</string>
+    <string name="mobileContacts">查看手机通讯录</string>
+    <string name="upload">上传</string>
+    <string name="uploadSuccess">上传成功</string>
+    <string name="allUploadSuccess">有效号码上传成功</string>
+    <string name="uploading">正在上传...</string>
+    <string name="counts">条</string>
+    <string name="uploadInBack">在后台上传</string>
+    <string name="uploadPhoneAddress">上传本地通讯录</string>
+    <string name="uploadPhoneAddressHint">上传本地通讯录到服务器，只为方便您邀请或添加您的好友，爱查不做其他用途。</string>
+    <string name="getPhoneContactsFail">获取失败，您是否限制了App获取本地联系人的权限？</string>
+    <string name="inviteDialogHint">还未开通爱查，是否现在发送邀请？</string>
+    <string name="haveBeenSendInvite">已发送邀请</string>
+    <string name="add">添加</string>
+    <string name="haveBeenAdd">已添加</string>
+    <string name="iecheck_">爱查：</string>
+    <string name="hiwoshi">我是 </string>
+    <string name="inputCannotNull">您未输入内容</string>
+    <string name="noResultsFound">没有相关结果</string>
+
+    <!-- contacts -->
+    <string name="changeGroupName">修改圈子名称</string>
+    <string name="inputGroupName">输入圈子名称</string>
+    <string name="changeMyNicknameInGroup">修改我在该圈子昵称</string>
+    <string name="inputNickname">输入昵称</string>
+    <string name="changeCategoryName">修改分组名称</string>
+    <string name="inputCategoryName">请输入分组名称</string>
+    <string name="addCategoryFail">添加分组失败</string>
+    <string name="editCategoryName">编辑组名</string>
+    <string name="deleteThisCategory">删除该分组？</string>
+    <string name="bySearchNum">通过搜索号码</string>
+    <string name="phoneContacts">手机联系人：</string>
+    <string name="byIcheckQrcode">通过爱查二维码</string>
+    <string name="byNameCard">通过好友名片</string>
+    <string name="byGroup">通过圈子</string>
+    <string name="requestAddYou">请求添加你为朋友</string>
+    <string name="accept">接受</string>
+    <string name="waitCheck">等待验证</string>
+    <string name="inviteFail">邀请失败</string>
+    <string name="recommendedFriends">新的朋友</string>
+    <string name="groupHelper">我的圈子</string>
+    <string name="groupNum">个圈子</string>
+    <string name="noCategroy">您还没有分组，请先到 “管理” 添加分组</string>
+    <!-- 二维码应用 -->
+    <string name="inputCompleteInfo">请输入完整信息</string>
+    <string name="namePhoneNotNull">姓名和电话不能为空</string>
+    <string name="getDataFail">获取数据失败</string>
+    <string name="haveBeenSave">已保存</string>
+    <string name="save">保存</string>
+    <string name="saveTo">已保存到:</string>
+    <string name="sending">正在发送…</string>
+    <string name="sendMsg">发消息</string>
+    <string name="haveBeenSend">已发送</string>
+    <string name="qrcodeRulenotget">防伪二维码规则尚未获取，请稍后再尝试扫码或者重新进入软件</string>
+    <!-- 品牌trademark -->
+    <string name="theGoodsHaveBeenReturn">该商品已退，详情请查看账户历史记录</string>
+    <string name="choose">选择</string>
+    <string name="contactsNum">位联系人</string>
+    <string name="resultsInTheList">搜索结果已经在列表中</string>
+    <string name="needShoppingReceipt">购物小票还未上传</string>
+    <string name="needGoodsPic">商品图片还未上传</string>
+    <string name="shensufail">申诉失败，请重新申诉</string>
+    <string name="youShensuHasAccepted">您的申诉已受理</string>
+    <string name="getting">正在获取…</string>
+    <string name="needLocationPermissions">正在获取位置信息，请确保开启定位权限</string>
+    <string name="getLocationFail">获取地理位置信息失败</string>
+    <string name="columnIsNull">该栏目暂时没有相关内容</string>
+
+    <!-- 脚本处理xml的字符串 -->
+    <string name="text0">添加分组</string>
+    <string name="text1">取消</string>
+    <string name="text2">保存</string>
+    <string name="text3">获取验证码</string>
+    <string name="text4">下一步</string>
+    <string name="text5">重置支付密码</string>
+    <string name="text6">获取验证码</string>
+    <string name="text7">下一步</string>
+    <string name="text8">重置支付密码</string>
+    <string name="text9">请填写注册时使用的证件号码末尾8位</string>
+    <string name="text10">下一步</string>
+    <string name="text11">重置支付密码</string>
+    <string name="text12">请回答安全保护问题来验证身份。</string>
+    <string name="text13">安保问题1：您爸爸的姓名</string>
+    <string name="text14">安保问题2：您妈妈的姓名</string>
+    <string name="text15">安保问题3：您小学的校名</string>
+    <string name="text16">下一步</string>
+    <string name="text17">聊天详情</string>
+    <string name="text18">昵称</string>
+    <string name="text19">品牌介绍：</string>
+    <string name="text20">****</string>
+    <string name="text21">圈子名称</string>
+    <string name="text22">...</string>
+    <string name="text23">圈子二维码</string>
+    <string name="text24">二维码图片</string>
+    <string name="text25">圈子人数上限</string>
+    <string name="text26">100人</string>
+    <string name="text27">置顶聊天</string>
+    <string name="text28">新消息通知</string>
+    <string name="text29">保存到我的圈子</string>
+    <string name="text30">我在该圈子的昵称</string>
+    <string name="text31">显示圈子成员的昵称</string>
+    <string name="text32">设置当前聊天背景</string>
+    <string name="text33">查看聊天内容</string>
+    <string name="text34">清空聊天记录</string>
+    <string name="text35">删除并退出</string>
+    <string name="text36">昵称</string>
+    <string name="text37">取消</string>
+    <string name="text38">确定</string>
+    <string name="text39">兑换现金</string>
+    <string name="text40">...</string>
+    <string name="text41">元</string>
+    <string name="text42">...</string>
+    <string name="text43">元</string>
+    <string name="text44">兑换话费</string>
+    <string name="text45">...</string>
+    <string name="text46">元</string>
+    <string name="text47">...</string>
+    <string name="text48">元</string>
+    <string name="text49">转赠余额</string>
+    <string name="text50">...</string>
+    <string name="text51">元</string>
+    <string name="text52">...</string>
+    <string name="text53">元</string>
+    <string name="text54">通讯录</string>
+    <string name="text55">商品详情</string>
+    <string name="text56">名称</string>
+    <string name="text57">产品描述</string>
+    <string name="text58">商品名称 </string>
+    <string name="text59">扫码时间</string>
+    <string name="text60">扣除红包</string>
+    <string name="text61">退货退红包</string>
+    <string name="text62">联系客服</string>
+    <string name="text63">请填写退货退奖的原因：</string>
+    <string name="text64">您在何处购买的商品？</string>
+    <string name="text65">下一步</string>
+    <string name="text66">返回</string>
+    <string name="text67">save</string>
+    <string name="text68">cencal</string>
+    <string name="text69">恭喜您!本次红包已成功领取。\n您现在已有账户总额:</string>
+    <string name="text70">1000</string>
+    <string name="text71">管理余额</string>
+    <string name="text72">发表评论</string>
+    <string name="text74">您本次扫码可获得xxx公司增送的\nxxx元红包.</string>
+    <string name="text75">抢红包</string>
+    <string name="text76">您的投诉已受理</string>
+    <string name="text77">确定</string>
+    <string name="text78">非爱查防伪标签！是否访问此链接？</string>
+    <string name="text79">是</string>
+    <string name="text80">否</string>
+    <string name="text81">【温馨提示】如果这个在产品包装上提示是“爱查真品”防伪标签，有可能为假冒标签。</string>
+    <string name="text82">1000</string>
+    <string name="text83">我知道，确定</string>
+    <string name="text84">我不知道，联系客服</string>
+    <string name="text85">商品未售，红包被领，投诉</string>
+    <string name="text86">1000</string>
+    <string name="text87">是</string>
+    <string name="text88">否</string>
+    <string name="text89">复制</string>
+    <string name="text90">返回</string>
+    <string name="text91">恭喜你！本次红包已成功领取。\n您现在已有账户余额:</string>
+    <string name="text92">确 定</string>
+    <string name="text93">好友分组</string>
+    <string name="text94">管理</string>
+    <string name="text95">移动好友到分组</string>
+    <string name="text96">好友分组</string>
+    <string name="text97">生成名片</string>
+    <string name="text98">姓名*</string>
+    <string name="text99">单位</string>
+    <string name="text100">职位</string>
+    <string name="text101">手机*</string>
+    <string name="text102">固话</string>
+    <string name="text103">邮箱</string>
+    <string name="text104">QQ</string>
+    <string name="text105">爱查号</string>
+    <string name="text106">网址</string>
+    <string name="text107">地址</string>
+    <string name="text108">重置支付密码</string>
+    <string name="text109">已向****发送短信，请在输入框中填写短信校验码。</string>
+    <string name="text110">59秒后重发</string>
+    <string name="text111">确定</string>
+    <string name="text112">正在加载...</string>
+    <string name="text113">分组管理</string>
+    <string name="text114">添加分组</string>
+    <string name="text115">修改组名称</string>
+    <string name="text116"> 购物搜索</string>
+    <string name="text117">验证支付密码</string>
+    <string name="text118">忘记密码？</string>
+    <string name="text119">确定</string>
+    <string name="text120">1</string>
+    <string name="text121">2</string>
+    <string name="text122">3</string>
+    <string name="text123">4</string>
+    <string name="text124">5</string>
+    <string name="text125">6</string>
+    <string name="text126">7</string>
+    <string name="text127">8</string>
+    <string name="text128">9</string>
+    <string name="text129">0</string>
+    <string name="text130">购买申诉</string>
+    <string name="text131">我已购买，申诉</string>
+    <string name="text132">没有购买，退分</string>
+    <string name="text133">...</string>
+    <string name="text134">红包总余额 :</string>
+    <string name="text135">...</string>
+    <string name="text136">待生效红包 :</string>
+    <string name="text137">...</string>
+    <string name="text138">已生效红包 :</string>
+    <string name="text139">...</string>
+    <string name="text140">兑换话费</string>
+    <string name="text141">兑换现金</string>
+    <string name="text142">转赠余额</string>
+    <string name="text143">可退商品</string>
+    <string name="text144">可退商品</string>
+    <string name="text145">退分投诉</string>
+    <string name="text146">TextView</string>
+    <string name="text147">发现地点:</string>
+    <string name="text148">中国</string>
+    <string name="text149">省</string>
+    <string name="text150">市</string>
+    <string name="text151">发现商场:</string>
+    <string name="text152">您的姓名：</string>
+    <string name="text153">联系电话:</string>
+    <string name="text154">理由说明:</string>
+    <string name="text155">商品实物照片:</string>
+    <string name="text156">投诉</string>
+    <string name="text157">当前位置</string>
+    <string name="text158">正在获取您的位置...</string>
+    <string name="text159">发送当前位置</string>
+    <string name="text160">登 录</string>
+    <string name="text161">注册新用户</string>
+    <string name="text162">忘记密码？</string>
+    <string name="switchAccount">切换帐号</string>
+    <string name="text164">登  录</string>
+    <string name="text165">忘记密码？</string>
+    <string name="text166">可使用英文（区分大小写）、数字、符号，6~20个字符</string>
+    <string name="text167">显示密码</string>
+    <string name="text168">确定并登录</string>
+    <string name="text169">...</string>
+    <string name="text170">...</string>
+    <string name="text171">...</string>
+    <string name="text172">...</string>
+    <string name="text173">...</string>
+    <string name="text174">...</string>
+    <string name="text175">...</string>
+    <string name="text176">修改支付密码</string>
+    <string name="text177">移动好友到分组</string>
+    <string name="text178">保存</string>
+    <string name="text179">移动到该分组</string>
+    <string name="text180">选择好友</string>
+    <string name="text181">二维码扫描</string>
+    <string name="text182">条形码扫描</string>
+    <string name="text183">查商品</string>
+    <string name="text184">查品牌</string>
+    <string name="text185">查消息</string>
+    <string name="text186">查更多</string>
+    <string name="text187">软件使用协议</string>
+    <string name="text188">重要须知：
+        \n\t\t【您当前使用的爱查版本为正式版，预览版账号与数据在正式上线版本无法同步，请重新注册。给您带来的不便，望请谅解。】</string>
+        <string name="text189">\t\t广州易智信息科技有限公司（以下简称“易智公司”）在此特别提醒您（用户）在注册成为用户之前，请认真阅读本《软件使用协议》（以下简称“协议”）
+，确保您充分理解本协议中各条款。请您审慎阅读并选择接受或不接受本协议。除非您接受本协议所有条款，否则您无权注册、登录或使用本协议所涉服务。
+您的注册、登录、使用等行为将视为对本协议的接受，并同意接受本协议各项条款的约束。\n
+\t\t本协议约定易智公司与用户之间关于“爱查”软件服务（以下简称“服务”）的权利义务。“用户”是指注册、登录、使用本服务的个人。本协议可由易智公
+司随时更新，更新后的协议条款一旦公布即代替原来的协议条款，恕不再另行通知，用户可在本网站查阅最新版协议条款。在易智公司修改协议条款后，如果
+用户不接受修改后的条款，请立即停止使用易智公司提供的服务，用户继续使用易智公司提供的服务将被视为接受修改后的协议。\n
+一、帐号注册\n
+1、用户在使用本服务前需要注册一个“爱查”帐号。“爱查”帐号应当使用手机号码绑定注册，请用户使用尚未与“爱查”帐号绑定的手机号码，以及未被
+易智公司根据本协议封禁的手机号码注册“爱查”帐号。易智公司可以根据用户需求或产品需要对帐号注册和绑定的方式进行变更，而无须事先通知用户。\n
+2、“爱查”系基于地理位置的移动生活助手类产品，用户使用时应当授权易智公司公开及使用其地理位置信息方。故用户完成注册即表明用户同意易智公司
+提取、公开及使用用户的地理位置信息。\n
+3、鉴于“爱查”帐号的绑定注册方式，您同意易智公司在注册时将使用您提供的手机号码及/或自动提取您的手机号码及自动提取您的手机设备识别码等信息
+用于注册。\n
+4、在用户注册及使用本服务时，易智公司需要搜集能识别用户身份的个人信息以便易智公司可以在必要时联系用户，或为用户提供更好的使用体验。易智公
+司搜集的信息包括但不限于用户的姓名、性别、年龄、出生日期、身份证号、地址、学校情况、公司情况、所属行业、兴趣爱好、常出没的地方、个人说明；
+易智公司同意对这些信息的使用将受限于第三条用户个人隐私信息保护的约束。\n
+二、服务内容\n
+1、本服务的具体内容由易智公司根据实际情况提供，包括但不限于授权用户通过其帐号进行即时通讯、添加好友、加入圈子、发布留言。易智公司可以对其
+提供的服务予以变更，且易智公司提供的服务内容可能随时变更；用户将会收到易智公司关于服务变更的通知。\n
+三、软件的获取\n
+1、 你可以直接从“易智公司”的网站上获取本软件，也可以从得到“易智公司”授权的第三方获取。
+2、 如果你从未经“易智公司”授权的第三方获取本软件或与本软件名称相同的安装程序，“易智公司”无法保证该软件能够正常使用，并对因此给你造成的
+损失不予负责。\n
+四、软件的安装与卸载\n
+1、 易智公司可能为不同的终端设备开发了不同的软件版本，你应当根据实际情况选择下载合适的版本进行安装。
+2、 下载安装程序后，你需要按照该程序提示的步骤正确安装。
+3、 为提供更加优质、安全的服务，在本软件安装时易智公司可能推荐你安装其他软件，你可以选择安装或不安装。
+4、 如果你不再需要使用本软件或者需要安装新版软件，可以自行卸载。如果你愿意帮助易智公司改进产品服务，请告知卸载的原因。
+五、软件的更新\n
+1、 为了改善用户体验、完善服务内容，易智公司将不断努力开发新的服务，并为你不时提供软件更新（这些更新可能会采取软件替换、修改、功能强化、版
+本升级等形式）。\n
+2、 为了保证本软件及服务的安全性和功能的一致性，易智公司有权不经向你特别通知而对软件进行更新，或者对软件的部分功能效果进行改变或限制。
+3、 本软件新版本发布后，旧版本的软件可能无法使用。易智公司不保证旧版本软件继续可用及相应的客户服务，请你随时核对并下载最新版本。\n
+六、用户个人隐私信息保护\n
+1、用户在注册帐号或使用本服务的过程中，可能需要填写或提交一些必要的信息，如法律法规、规章规范性文件（以下称“法律法规”）规定的需要填写的
+身份信息。如用户提交的信息不完整或不符合法律法规的规定，则用户可能无法使用本服务或在使用本服务的过程中受到限制。\n
+2、个人隐私信息是指涉及用户个人身份或个人隐私的信息，比如，用户真实姓名、身份证号、手机号码、手机设备识别码、IP地址、用户聊天记录。非个人
+隐私信息是指用户对本服务的操作状态以及使用习惯等明确且客观反映在易智公司服务器端的基本记录信息、个人隐私信息范围外的其它普通信息，以及用户
+同意公开的上述隐私信息。\n
+3、尊重用户个人隐私信息的私有性是易智公司的一贯制度，易智公司将采取技术措施和其他必要措施，确保用户个人隐私信息安全，防止在本服务中收集的
+用户个人隐私信息泄露、毁损或丢失。在发生前述情形或者易智公司发现存在发生前述情形的可能时，将及时采取补救措施。\n
+4、易智公司未经用户同意不向任何第三方公开、 透露用户个人隐私信息。但以下特定情形除外：
+(1) 易智公司根据法律法规规定或有权机关的指示提供用户的个人隐私信息；\n
+(2) 由于用户将其用户密码告知他人或与他人共享注册帐户与密码，由此导致的任何个人信息的泄漏，或其他非因易智公司原因导致的个人隐私信息的泄露；
+\n
+(3) 用户自行向第三方公开其个人隐私信息；\n
+(4) 用户与易智公司及合作单位之间就用户个人隐私信息的使用公开达成约定，易智公司因此向合作单位公开用户个人隐私信息；\n
+(5) 任何由于黑客攻击、电脑病毒侵入及其他不可抗力事件导致用户个人隐私信息的泄露。\n
+5、用户同意易智公司可在以下事项中使用用户的个人隐私信息：\n
+(1) 易智公司向用户及时发送重要通知，如软件更新、本协议条款的变更；\n
+(2) 易智公司内部进行审计、数据分析和研究等，以改进易智公司的产品、服务和与用户之间的沟通；\n
+(3) 依本协议约定，易智公司管理、审查用户信息及进行处理措施；\n
+(4) 适用法律法规规定的其他事项。\n
+除上述事项外，如未取得用户事先同意，易智公司不会将用户个人隐私信息使用于任何其他用途。\n
+6、用户确认，其地理位置信息为非个人隐私信息，用户成功注册“爱查”帐号视为确认授权易智公司提取、公开及使用用户的地理位置信息。用户地理位置
+信息将作为用户公开资料之一，由易智公司向其他用户公开。如用户需要终止向其他用户公开其地理位置信息，可随时自行设置为隐身状态。\n
+7、为了改善易智公司的技术和服务，向用户提供更好的服务体验，易智公司或可会自行收集使用或向第三方提供用户的非个人隐私信息。\n
+七、内容规范\n
+1、本条所述内容是指用户使用本服务过程中所制作、上载、复制、发布、传播的任何内容，包括但不限于帐号头像、名称、用户说明等注册信息及认证资料
+，或文字、语音、图片、视频、图文等发送、回复或自动回复消息和相关链接页面，以及其他使用帐号或本服务所产生的内容。\n
+2、用户不得利用“爱查”帐号或本服务制作、上载、复制、发布、传播如下法律、法规和政策禁止的内容：\n
+(1) 反对宪法所确定的基本原则的；\n
+(2) 危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；\n
+(3) 损害国家荣誉和利益的；\n
+(4) 煽动民族仇恨、民族歧视，破坏民族团结的；\n
+(5) 破坏国家宗教政策，宣扬邪教和封建迷信的；\n
+(6) 散布谣言，扰乱社会秩序，破坏社会稳定的；\n
+(7) 散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；\n
+(8) 侮辱或者诽谤他人，侵害他人合法权益的；\n
+(9) 含有法律、行政法规禁止的其他内容的信息。\n
+3、用户不得利用“爱查”帐号或本服务制作、上载、复制、发布、传播如下干扰“爱查”正常运营，以及侵犯其他用户或第三方合法权益的内容：\n
+(1) 含有任何性或性暗示的；\n
+(2) 含有辱骂、恐吓、威胁内容的；\n
+(3) 含有骚扰、垃圾广告、恶意信息、诱骗信息的；\n
+(4) 涉及他人隐私、个人信息或资料的；\n
+(5) 侵害他人名誉权、肖像权、知识产权、商业秘密等合法权利的；\n
+(6) 含有其他干扰本服务正常运营和侵犯其他用户或第三方合法权益内容的信息。\n
+八、使用规则\n
+1、用户在本服务中或通过本服务所传送、发布的任何内容并不反映或代表，也不得被视为反映或代表易智公司的观点、立场或政策，易智公司对此不承担任
+何责任。\n
+2、用户不得利用“爱查”帐号或本服务进行如下行为：\n
+(1) 提交、发布虚假信息，或盗用他人头像或资料，冒充、利用他人名义的；\n
+(2) 强制、诱导其他用户关注、点击链接页面或分享信息的；\n
+(3) 虚构事实、隐瞒真相以误导、欺骗他人的；\n
+(4) 利用技术手段批量建立虚假帐号的；\n
+(5) 利用“爱查”帐号或本服务从事任何违法犯罪活动的；\n
+(6) 制作、发布与以上行为相关的方法、工具，或对此类方法、工具进行运营或传播，无论这些行为是否为商业目的；\n
+(7) 其他违反法律法规规定、侵犯其他用户合法权益、干扰“爱查”正常运营或易智公司未明示授权的行为。\n
+3、用户须对利用“爱查”帐号或本服务传送信息的真实性、合法性、无害性、准确性、有效性等全权负责，与用户所传播的信息相关的任何法律责任由用户
+自行承担，与易智公司无关。如因此给易智公司或第三方造成损害的，用户应当依法予以赔偿。\n
+7、用户确认，除法律法规明确规定或本协议另有约定外，用户已购买的任何收费服务不能以任何理由退购（即退换成易智币或法定货币）或调换成其他服务
+。\n
+九、帐户管理\n
+1、 “爱查”帐号的所有权归易智公司所有，用户完成申请注册手续后，获得“爱查”帐号的使用权，该使用权仅属于初始申请注册人，禁止赠与、借用、租
+用、转让或售卖。易智公司因经营需要，有权回收用户的“爱查”帐号。\n
+2、用户可以更改、删除“爱查”帐户上的个人资料、注册信息及传送内容等，但需注意，删除有关信息的同时也会删除用户储存在系统中的文字和图片。用
+户需承担该风险。\n
+3、用户有责任妥善保管注册帐号信息及帐号密码的安全，因用户保管不善可能导致遭受盗号或密码失窃，责任由用户自行承担。用户需要对注册帐号以及密
+码下的行为承担法律责任。用户同意在任何情况下不使用其他用户的帐号或密码。在用户怀疑他人使用其帐号或密码时，用户同意立即通知易智公司。\n
+4、用户应遵守本协议的各项条款，正确、适当地使用本服务，如因用户违反本协议中的任何条款，易智公司在通知用户后有权依据协议中断或终止对违约用
+户“爱查”帐号提供服务。同时，易智公司保留在任何时候收回“爱查”帐号、用户名的权利。\n
+5、如用户注册“爱查”帐号后一年不登录，通知用户后，易智公司可以收回该帐号，以免造成资源浪费，由此造成的不利后果由用户自行承担。\n
+十、数据储存\n
+1、易智公司不对用户在本服务中相关数据的删除或储存失败负责。\n
+2、易智公司可以根据实际情况自行决定用户在本服务中数据的最长储存期限，并在服务器上为其分配数据最大存储空间等。用户可根据自己的需要自行备份
+本服务中的相关数据。\n
+3、如用户停止使用本服务或本服务终止，易智公司可以从服务器上永久地删除用户的数据。本服务停止、终止后，易智公司没有义务向用户返还任何数据。
+\n
+十一、风险承担\n
+1、用户理解并同意，“爱查”仅为用户提供信息分享、传送及获取的平台，用户必须为自己注册帐号下的一切行为负责，包括用户所传送的任何内容以及由
+此产生的任何后果。用户应对“爱查”及本服务中的内容自行加以判断，并承担因使用内容而引起的所有风险，包括因对内容的正确性、完整性或实用性的依
+赖而产生的风险。易智公司无法且不会对因用户行为而导致的任何损失或损害承担责任。\n
+如果用户发现任何人违反本协议约定或以其他不当的方式使用本服务，请立即向易智公司举报或投诉，易智公司将依本协议约定进行处理。\n
+2、用户理解并同意，因业务发展需要，易智公司保留单方面对本服务的全部或部分服务内容变更、暂停、终止或撤销的权利，用户需承担此风险。\n
+十二、知识产权声明\n
+1、除本服务中涉及广告的知识产权由相应广告商享有外，易智公司在本服务中提供的内容（包括但不限于网页、文字、图片、音频、视频、图表等）的知识
+产权均归易智公司所有，但用户在使用本服务前对自己发布的内容已合法取得知识产权的除外。\n
+2、除另有特别声明外，易智公司提供本服务时所依托软件的著作权、专利权及其他知识产权均归易智公司所有。\n
+3、易智公司在本服务中所涉及的图形、文字或其组成，以及其他易智公司标志及产品、服务名称（以下统称“易智公司标识”），其著作权或商标权归易智
+公司所有。未经易智公司事先书面同意，用户不得将易智公司标识以任何方式展示或使用或作其他处理，也不得向他人表明用户有权展示、使用、或其他有权
+处理易智公司标识的行为。\n
+4、上述及其他任何易智公司或相关广告商依法拥有的知识产权均受到法律保护，未经易智公司或相关广告商书面许可，用户不得以任何形式进行使用或创造
+相关衍生作品。\n
+十三、法律责任\n
+1、如果易智公司发现或收到他人举报或投诉用户违反本协议约定的，易智公司有权不经通知随时对相关内容，包括但不限于用户资料、聊天记录进行审查、
+删除，并视情节轻重对违规帐号处以包括但不限于警告、帐号封禁 、设备封禁 、功能封禁 的处罚，且通知用户处理结果。\n
+2、用户理解并同意，易智公司有权依合理判断对违反有关法律法规或本协议规定的行为进行处罚，对违法违规的任何用户采取适当的法律行动，并依据法律
+法规保存有关信息向有关部门报告等，用户应承担由此而产生的一切法律责任。\n
+3、用户理解并同意，因用户违反本协议约定，导致或产生的任何第三方主张的任何索赔、要求或损失，包括合理的律师费，用户应当赔偿易智公司与合作公
+司、关联公司，并使之免受损害。\n
+十四、不可抗力及其他免责事由\n
+1、用户理解并确认，在使用本服务的过程中，可能会遇到不可抗力等风险因素，使本服务发生中断。不可抗力是指不能预见、不能克服并不能避免且对一方
+或双方造成重大影响的客观事件，包括但不限于自然灾害如洪水、地震、瘟疫流行和风暴等以及社会事件如战争、动乱、政府行为等。出现上述情况时，易智
+公司将努力在第一时间与相关单位配合，及时进行修复，但是由此给用户或第三方造成的损失，易智公司及合作单位在法律允许的范围内免责。\n
+2、本服务同大多数互联网服务一样，受包括但不限于用户原因、网络服务质量、社会环境等因素的差异影响，可能受到各种安全问题的侵扰，如他人利用用
+户的资料，造成现实生活中的骚扰；用户下载安装的其它软件或访问的其他网站中含有“特洛伊木马”等病毒，威胁到用户的计算机信息和数据的安全，继而
+影响本服务的正常使用等等。用户应加强信息安全及使用者资料的保护意识，要注意加强密码保护，以免遭致损失和骚扰。\n
+3、用户理解并确认，本服务存在因不可抗力、计算机病毒或黑客攻击、系统不稳定、用户所在位置、用户关机以及其他任何技术、互联网络、通信线路原因
+等造成的服务中断或不能满足用户要求的风险，因此导致的用户或第三方任何损失，易智公司不承担任何责任。\n
+4、用户理解并确认，在使用本服务过程中存在来自任何他人的包括误导性的、欺骗性的、威胁性的、诽谤性的、令人反感的或非法的信息，或侵犯他人权利
+的匿名或冒名的信息，以及伴随该等信息的行为，因此导致的用户或第三方的任何损失，易智公司不承担任何责任。\n
+5、用户理解并确认，易智公司需要定期或不定期地对“爱查”平台或相关的设备进行检修或者维护，如因此类情况而造成服务在合理时间内的中断，易智公
+司无需为此承担任何责任，但易智公司应事先进行通告。\n
+6、易智公司依据法律法规、本协议约定获得处理违法违规或违约内容的权利，该权利不构成易智公司的义务或承诺，易智公司不能保证及时发现违法违规或
+违约行为或进行相应处理。\n
+7、用户理解并确认，对于易智公司向用户提供的下列产品或者服务的质量缺陷及其引发的任何损失，易智公司无需承担任何责任：\n
+(1) 易智公司向用户免费提供的服务；\n
+(2) 易智公司向用户赠送的任何产品或者服务。\n
+8、在任何情况下，易智公司均不对任何间接性、后果性、惩罚性、偶然性、特殊性或刑罚性的损害，包括因用户使用“爱查”或本服务而遭受的利润损失，
+承担责任（即使易智公司已被告知该等损失的可能性亦然）。尽管本协议中可能含有相悖的规定，易智公司对用户承担的全部责任，无论因何原因或何种行为
+方式，始终不超过用户因使用易智公司提供的服务而支付给易智公司的费用(如有)。\n
+十五、服务的变更、中断、终止\n
+1、鉴于网络服务的特殊性，用户同意易智公司有权随时变更、中断或终止部分或全部的服务（包括收费服务）。易智公司变更、中断或终止的服务，易智公
+司应当在变更、中断或终止之前通知用户，并应向受影响的用户提供等值的替代性的服务。\n
+2、如发生下列任何一种情形，易智公司有权变更、中断或终止向用户提供的免费服务或收费服务，而无需对用户或任何第三方承担任何责任：\n
+(1) 根据法律规定用户应提交真实电话号码信息，而用户提供的电话号码不真实、或与注册时信息不一致又未能提供合理证明；\n
+(2) 用户违反相关法律法规或本协议的约定；\n
+(3) 按照法律规定或有权机关的要求；\n
+(4) 出于安全的原因或其他必要的情形。\n
+</string>
+    <string name="text190">广州易智信息科技有限公司</string>
+    <string name="text192">同意使用</string>
+    <string name="text193">游客试用</string>
+    <string name="text194">登录 注册</string>
+    <string name="text195">生成名片</string>
+    <string name="text196">生成日程</string>
+    <string name="text197">生成链接</string>
+    <string name="text198">国家和地区</string>
+    <string name="text199">中国</string>
+    <string name="text200">+86</string>
+    <string name="text201">注  册</string>
+    <string name="text202">该手机号码已经注册,</string>
+    <string name="text203">是否直接登录爱查?</string>
+    <string name="text204">取消</string>
+    <string name="text205">确定</string>
+    <string name="text206">我们已经发送了</string>
+    <string name="text207">验证码</string>
+    <string name="text208">到你的手机:</string>
+    <string name="text209">收不到验证号?</string>
+    <string name="text210">下一步</string>
+    <string name="text211">确认手机号</string>
+    <string name="text212">我们将发送验证码短信到这个号码 :  </string>
+    <string name="text213">取消</string>
+    <string name="text214">确定</string>
+    <string name="text215">退分验证码</string>
+    <string name="text217">确定</string>
+    <string name="text218">确 定</string>
+    <string name="text219">设置备注</string>
+    <string name="text220">发送该名片</string>
+    <string name="text221">加入黑名单</string>
+    <string name="text222">删除好友</string>
+    <string name="text223">发送</string>
+    <string name="text224">按住 说话</string>
+    <string name="text225">购物记录</string>
+    <string name="text226">表情</string>
+    <string name="text227">照片</string>
+    <string name="text228">视频</string>
+    <string name="text229">位置</string>
+    <string name="text230">开始录音</string>
+    <string name="text231">文章标题</string>
+    <string name="text232">发布日期</string>
+    <string name="text233">副标题</string>
+    <string name="text234">内容摘要</string>
+    <string name="text235">查看全文</string>
+    <string name="text236">名片</string>
+    <string name="text237">昵称</string>
+    <string name="text238">内容</string>
+    <string name="text239">昵称</string>
+    <string name="text240">昵称</string>
+    <string name="text241">昵称</string>
+    <string name="text242">标题</string>
+    <string name="text243">标题</string>
+    <string name="text244">昵称</string>
+    <string name="text245">昵称</string>
+    <string name="text246">昵称</string>
+    <string name="link">链接</string>
+    <string name="text247">昵称</string>
+    <string name="text248">名片</string>
+    <string name="text249">昵称</string>
+    <string name="text250">内容</string>
+    <string name="text251">昵称</string>
+    <string name="text252">昵称</string>
+    <string name="text253">昵称</string>
+    <string name="text254">昵称</string>
+    <string name="text255">昵称</string>
+    <string name="networkUnavailable">连接不到聊天服务器（点击重试）</string>
+    <string name="text259">1</string>
+    <string name="text260">1</string>
+    <string name="text261">天猫商城</string>
+    <string name="text262">发表评论</string>
+    <string name="text263">更多</string>
+    <string name="text264">产品名称：</string>
+    <string name="text265">产品型号：</string>
+    <string name="text266">生产日期：</string>
+    <string name="text267">保质期限：</string>
+    <string name="text268">销售地区：</string>
+    <string name="text269">关注度：</string>
+    <string name="imgWrong">商品图片不对</string>
+    <string name="importMyPrice">输入我的价格</string>
+    <string name="text270">商品名称:</string>
+    <string name="text271">52五粮液六和液</string>
+    <string name="text272">产品型号:</string>
+    <string name="text273">生产日期:</string>
+    <string name="text274">保质期限:</string>
+    <string name="text275">销售地区:</string>
+    <string name="text276">全国</string>
+    <string name="text277">您现在使用的扫码软件不能识别爱查防伪真伪，请使用五粮液官方指定防伪扫描软件--爱查APP。立刻一键下载</string>
+    <string name="text278">第一步:请下载爱查APP</string>
+    <string name="text279">一键下载</string>
+    <string name="text280">第二步:扫描暗码，获取红包及奖品</string>
+    <string name="text281">操作示意图01</string>
+    <string name="text282">操作示意图02</string>
+    <string name="text283">产品名称：</string>
+    <string name="text284">厂家名称：</string>
+    <string name="text285">生产地点：</string>
+    <string name="text286">关注度:</string>
+    <string name="text287">此商品没有价格信息,请帮助我们补充信息</string>
+    <string name="text288">产品价格:</string>
+    <string name="text289">￥</string>
+    <string name="text290">购买商家:</string>
+    <string name="text291">购买地区:</string>
+    <string name="text292">中国</string>
+    <string name="text293">省</string>
+    <string name="text294">市</string>
+    <string name="text295">提交</string>
+    <string name="text296">购物搜索</string>
+    <string name="text297">爱比价</string>
+    <string name="text298">查真伪</string>
+    <string name="text299">京东商城</string>
+    <string name="text300">亚马逊</string>
+    <string name="text301">一淘</string>
+    <string name="text302">一号店</string>
+    <string name="text303">V+名品网</string>
+    <string name="text304">酒仙网</string>
+    <string name="text305">天猫商城</string>
+    <string name="text306">易迅网</string>
+    <string name="text307">QQ网购</string>
+    <string name="text308">梦芭莎</string>
+    <string name="text309">天猫商城</string>
+    <string name="text310">我买网</string>
+    <string name="text311">天猫商城</string>
+    <string name="text312">产品名称：</string>
+    <string name="text313">厂家名称：</string>
+    <string name="text315">关注度：</string>
+    <string name="text316">产品价格：</string>
+    <string name="text317">购买商家：</string>
+    <string name="text318">购买地区：</string>
+    <string name="text319">选择评价</string>
+    <string name="text320">好评</string>
+    <string name="text321">+1</string>
+    <string name="text322">中评</string>
+    <string name="text323">+1</string>
+    <string name="text324">差评</string>
+    <string name="text325">+1</string>
+    <string name="text326">发表评论</string>
+    <string name="text327">联系客服</string>
+    <string name="text328">发表评论</string>
+    <string name="text329">购买申诉</string>
+    <string name="text330">您的姓名:</string>
+    <string name="text331">联系电话:</string>
+    <string name="text332">购买商家:</string>
+    <string name="text333">申诉理由:</string>
+    <string name="text334">购物发票（或小票）相片:</string>
+    <string name="text335">商品实物照片:</string>
+    <string name="text336">申诉</string>
+    <string name="text337">此商品没有登记，请帮助我们补充信息.</string>
+    <string name="text338">产品图片:</string>
+    <string name="text339">品牌型号:</string>
+    <string name="text340">产品价格:</string>
+    <string name="text341">购买商家:</string>
+    <string name="text342">购买地区:</string>
+    <string name="text343">中国</string>
+    <string name="text344">省</string>
+    <string name="text345">市</string>
+    <string name="text346">提交</string>
+    <string name="text347">扫码</string>
+    <string name="text348">搜索</string>
+    <string name="text358">商品信息仅供参考，非爱查防伪系统认证商品，爱查不对该商品真伪负责!</string>
+    <string name="text359">打开灯</string>
+    <string name="text360">关掉灯</string>
+    <string name="text361">本机图片</string>
+    <string name="text362">查真伪</string>
+    <string name="text363">爱比价</string>
+    <string name="text364">确认</string>
+    <string name="text365">找回支付密码</string>
+    <string name="text366">已向186****5509发送短信，请在输入框中填写短信校验码。</string>
+    <string name="text367">59秒后重发</string>
+    <string name="text368">确定</string>
+    <string name="text369">昵称</string>
+    <string name="text370">个性签名</string>
+    <string name="text371">昵称</string>
+    <string name="text372">我的分组</string>
+    <string name="text373">我的分组</string>
+    <string name="text374">20/80</string>
+    <string name="text375">加载更多</string>
+    <string name="text376">搜索</string>
+    <string name="text377">你可以搜索到通讯录，聊天记录，\n品牌，相关文章和收藏内容。</string>
+    <string name="text378">内容类型</string>
+    <string name="text379">更多相关**</string>
+    <string name="text380">昵称</string>
+    <string name="text381">内容</string>
+    <string name="text382">比价、扫描历史</string>
+    <string name="text383">真伪查询历史</string>
+    <string name="text384">点击右上角\n添加聊天好友</string>
+    <string name="text384_">添加聊天好友</string>
+    <string name="text385">下一步</string>
+    <string name="text386">开户行</string>
+    <string name="text387">卡类型</string>
+    <string name="text388">**** **** **** </string>
+    <string name="text389">----</string>
+    <string name="text390">添加银行卡</string>
+    <string name="text391">记录类型</string>
+    <string name="text392">昵称 </string>
+    <string name="text393">2001-01-01 00:00:00</string>
+    <string name="text394">0</string>
+    <string name="text395">账户余额：0</string>
+    <string name="text396">活动详情</string>
+    <string name="text397">不限</string>
+    <string name="text398">加载数据中...</string>
+    <string name="text399">生成日程</string>
+    <string name="text400">日程标题</string>
+    <string name="text401">开始日期</string>
+    <string name="text402">开始时间</string>
+    <string name="text403">结束日期</string>
+    <string name="text404">结束时间</string>
+    <string name="text405">全天日程</string>
+    <string name="text406">地点</string>
+    <string name="text407">说明</string>
+    <string name="text408">生成连接</string>
+    <string name="text409">生成二维码</string>
+    <string name="text410">保存</string>
+    <string name="text411">分享</string>
+    <string name="text412">搜号码</string>
+    <string name="text413">添加手机联系人</string>
+    <string name="text414">扫爱查二维码</string>
+    <string name="text414hint">(首页二维码即个人爱查号，扫一扫添加好友)</string>
+    <string name="text415">更换皮肤</string>
+    <string name="text416">经典风格</string>
+    <string name="text417">拟物风格</string>
+    <string name="text418">确定</string>
+    <string name="text419">查看手机通信录</string>
+    <string name="text420">语言选择</string>
+    <string name="text421">跟随系统</string>
+    <string name="text422">简体中文</string>
+    <string name="text423">繁体中文</string>
+    <string name="text424">English</string>
+    <string name="text425">确定</string>
+    <string name="text426">通讯录</string>
+    <string name="text427">添加</string>
+    <string name="text428">新的朋友</string>
+    <string name="text429">好友分组</string>
+    <string name="text430">我的圈子</string>
+    <string name="text431">没有更多</string>
+    <string name="text432">新的朋友</string>
+    <string name="text433">清空</string>
+    <string name="text434">...</string>
+    <string name="text435">...</string>
+    <string name="text436">添加</string>
+    <string name="text437">接受</string>
+    <string name="text438">状态</string>
+    <string name="text439">详细资料</string>
+    <string name="text440">...</string>
+    <string name="text441">爱查号 ：</string>
+    <string name="text442">地区</string>
+    <string name="text443">...</string>
+    <string name="text444">个性签名</string>
+    <string name="text445">...</string>
+    <string name="text446">打招呼</string>
+    <string name="blacklist">已添加至黑名单，你将不再收到对方的消息</string>
+    <string name="text447">消息通知</string>
+    <string name="text448">声音与振动</string>
+    <string name="text449">提示灯闪烁</string>
+    <string name="text450">通知栏显示信息详情</string>
+    <string name="text451">圈子消息通知</string>
+    <string name="text452">关闭后，将关闭圈子消息的声音与振动提醒。</string>
+    <string name="text453">夜间防骚扰模式</string>
+    <string name="text454">开启后，在0:00~8:00时间段，将关闭新消息的声音与振动提醒。</string>
+    <string name="text455">头像</string>
+    <string name="text456">选择生日:</string>
+    <string name="text457">年</string>
+    <string name="text458">月</string>
+    <string name="text459">日</string>
+    <string name="text460">选择地区:</string>
+    <string name="text461">中国</string>
+    <string name="text462">省</string>
+    <string name="text463">市/区</string>
+    <string name="text464">确定</string>
+    <string name="text465">昵称</string>
+    <string name="text466">电话号码</string>
+    <string name="text467">+ 添加</string>
+    <string name="text468">隐私</string>
+    <string name="text469">加我为好友需要验证</string>
+    <string name="text470">向我推荐好友</string>
+    <string name="text471">通过手机号搜索到我</string>
+    <string name="text472">黑名单</string>
+    <string name="text473">打招呼</string>
+    <string name="text474">发送</string>
+    <string name="text475">说句话打个招呼吧</string>
+    <string name="text476">添加朋友</string>
+    <string name="text477">搜索</string>
+    <string name="text478">爱查号/手机号</string>
+    <string name="text479">设置</string>
+    <string name="text480">消息通知</string>
+    <string name="text481">隐私</string>
+    <string name="text482">更换皮肤</string>
+    <string name="text483">语言选择</string>
+    <string name="text484">关于爱查</string>
+    <string name="text485">退出</string>
+    <string name="text486">黑名单</string>
+    <string name="text487">没有加入黑名单的联系人</string>
+    <string name="text488">退出后不会删除任何历史数据，下次登录依然可以使用本帐号。</string>
+    <string name="text489">退出当前帐号</string>
+    <string name="text490">关闭爱查</string>
+    <string name="text491">期待您的意见和建议</string>
+    <string name="text492">发送</string>
+    <string name="text493">发现新的版本</string>
+    <string name="text494">新版本，更放心！</string>
+    <string name="text495">取消</string>
+    <string name="text496">立即更新</string>
+    <string name="text497">声音与振动</string>
+    <string name="text498">新消息提醒</string>
+    <string name="text499">振动</string>
+    <string name="text500">圈子振动</string>
+    <string name="text501">声音</string>
+    <string name="text502">圈子声音</string>
+    <string name="text503">提示音类型</string>
+    <string name="text504">默认</string>
+    <string name="text505">系统通知音</string>
+    <string name="text506">显示密码</string>
+    <string name="text507">下一步</string>
+    <string name="text508">关于爱查</string>
+    <string name="text510">...</string>
+    <string name="text511">版本更新</string>
+    <string name="text512">功能介绍</string>
+    <string name="text513">帮助与反馈</string>
+    <string name="text514">我的分组</string>
+    <string name="text515">爱查号:</string>
+    <string name="text516">添加朋友</string>
+    <string name="text517">通讯录</string>
+    <string name="text518">二维码应用</string>
+    <string name="text519">设置</string>
+    <string name="text520">产品名称：</string>
+    <string name="text521">产品型号：</string>
+    <string name="guidingPrice">指导价格：</string>
+    <string name="text522">生产日期：</string>
+    <string name="text523">保质期限：</string>
+    <string name="text524">销售地区：</string>
+    <string name="text525">产品详情：</string>
+    <string name="text526">品牌介绍：</string>
+    <string name="text527">比价</string>
+    <string name="text528">联系客服</string>
+    <string name="text529">这是正品标志,您这是第X次扫描./n首次扫描时间:X年X月X日X时X分X秒.</string>
+    <string name="text530">请在退货时候出示退分验证码</string>
+    <string name="text531">退分验证码</string>
+    <string name="text532">继续扫描</string>
+    <string name="text533">马上投诉</string>
+    <string name="text534">产品名称:</string>
+    <string name="text535">产品型号:</string>
+    <string name="text536">生产日期:</string>
+    <string name="text537">保质期限:</string>
+    <string name="text538">销售地区:</string>
+    <string name="text539">产品详情:</string>
+    <string name="text540">比价</string>
+    <string name="text541">联系客服</string>
+    <string name="text542">如果您不知道首次扫码的情况，\n则此防伪是伪造的,请联系客服。</string>
+    <string name="text543">联系客服</string>
+    <string name="text544">...</string>
+    <string name="text545">...</string>
+    <string name="text546">...</string>
+    <string name="text547">为了您的账户安全，请填写有效的证件号码。</string>
+    <string name="text548">*请认真填写，填写后无法更改。</string>
+    <string name="text549">提交</string>
+    <string name="text550">点击获取按钮获取短信验证码</string>
+    <string name="text551">请输入短信验证码</string>
+    <string name="text552">获取验证码</string>
+    <string name="text553">下一步</string>
+    <string name="text554">设置安全保护问题</string>
+    <string name="text555">请设置以下问题答案，方便您找回密码。</string>
+    <string name="text556">1. 您爸爸的姓名?</string>
+    <string name="text557">2. 您妈妈的姓名?</string>
+    <string name="text558">3. 您小学的校名?</string>
+    <string name="text559">确定</string>
+    <string name="text560">微信</string>
+    <string name="text561">微信朋友圈</string>
+    <string name="text562">新浪微博</string>
+    <string name="text563">腾讯微博</string>
+    <string name="text564">QQ</string>
+    <string name="text565">人人网</string>
+    <string name="text566">QQ空间</string>
+    <string name="text567">取  消</string>
+    <string name="text568">扫码</string>
+    <string name="text569">搜索</string>
+    <string name="text570">首页</string>
+    <string name="text571">接口测试</string>
+    <string name="text573">更多</string>
+    <string name="text574">欢迎大家对我们公司提出宝贵意见，有效建议，将以奖励，略表谢意！（获奖名单请点击查看）</string>
+    <string name="text575">录音时间太短</string>
+    <string name="text576">详细资料</string>
+    <string name="text577">更多</string>
+    <string name="text578">名称</string>
+    <string name="text579">爱查号：</string>
+    <string name="text580">****</string>
+    <string name="text581">品牌介绍：</string>
+    <string name="text582">****</string>
+    <string name="text583">查看历史消息</string>
+    <string name="text584">清空聊天记录</string>
+    <string name="text585">接收群发消息</string>
+    <string name="text586">查看消息</string>
+    <string name="text587">投诉</string>
+    <string name="text588">推荐给好友</string>
+    <string name="text589">取消关注</string>
+    <string name="text590">标题</string>
+    <string name="text591">更多</string>
+    <string name="text592">购物记录</string>
+    <string name="text593">更多</string>
+    <string name="text594">商品名称</string>
+    <string name="text595">购买时间：</string>
+    <string name="text596">取消关注</string>
+    <string name="text597">点击加载更多</string>
+    <string name="text598">向下拉即可更新……</string>
+    <string name="text599">查看更多</string>
+    <string name="text600">下拉刷新</string>
+    <string name="text601">上次更新时间：</string>
+    <string name="text602">圈子昵称 ：</string>
+    <string name="text603">昵称 ：</string>
+    <string name="excetionmailtitile">爱查报错日志</string>
+
+    <string name="forward">转发</string>
+    <string name="delete">删除</string>
+    <string name="save2phone">保存到手机</string>
+
+    <string name="forwardToFriend">转发给爱查好友</string>
+    <string name="copyUrl">复制链接</string>
+    <string name="openWithBrowser">在浏览器打开</string>
+    <string name="copy">复制</string>
+    <string name="favorite">收藏</string>
+
+    <string name="addToMobileAddressBook">添加到手机通讯录</string>
+    <string name="call">呼叫</string>
+    <string name="sendEmail">发送邮件</string>
+
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+
+    <string name="shareLuckyMoney">点击分享更多红包</string>
+    <string name="LuckyMoneyErr">哎呀，由于网络原因APP没显示红包金额，红包已自动前往您爱查账户，客官可在历史记录查看余额变动</string>
+    <string name="getLuckyMoney">  ~快使劲戳抢分享红包~ </string>
+    <string name="goodLuck">恭喜您，抢到红包</string>
+    <string name="shareRule">已开启红包分享！</string>
+    <string name="youAreSlowly">手慢了</string>
+    <string name="betterLuckNextTime">很遗憾，红包已经被抢完了</string>
+
+</resources>

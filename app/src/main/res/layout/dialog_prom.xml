@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/NoTitleDialog"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    android:background="@color/gray_f8"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/DP_ll_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <TextView
+            android:id="@+id/DP_tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingBottom="15dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="15dp"
+            android:text="@string/text493"
+            android:textColor="@color/shallow_black"
+            android:textSize="@dimen/font_size_17" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:background="@color/blue_color" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fadingEdge="none"
+        android:paddingBottom="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/DP_tv_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="10dp"
+                android:lineSpacingExtra="2dp"
+                android:text="@string/text494"
+                android:gravity="center_vertical"
+                android:textColor="@color/shallow_black"
+                android:textSize="@dimen/font_size_14" />
+
+            <EditText
+                android:id="@+id/DP_ed_input"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:maxHeight="80dp"
+                android:background="@drawable/bg_roundcorner_fff"
+                android:hint="请输入"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:visibility="visible"
+                android:textColor="@color/shallow_black"
+                android:textSize="@dimen/font_size_14">
+
+                <requestFocus />
+            </EditText>
+        </LinearLayout>
+    </ScrollView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/gray_ba" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/DP_btn_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/listview_item_transparent"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="@string/text495"
+            android:textColor="@color/text_click_color" />
+
+        <View
+            android:id="@+id/DP_view_line"
+            android:layout_width="0.1dp"
+            android:layout_height="match_parent"
+            android:background="@color/gray_ba" />
+
+        <Button
+            android:id="@+id/DP_btn_certain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/listview_item_transparent"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="@string/certain"
+            android:textColor="@color/text_click_color" >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>

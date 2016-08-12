@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#EDEDED</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+
+    <color name="header">#58567D</color>
+    <color name="grgray">#686868</color>
+
+
+    <color name="about">#5C5C5C</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent_bb_black">#bb000000</color>
+    <color name="translucent_99_black">#99000000</color>
+    <color name="translucent_66_black">#66000000</color>
+    <color name="translucent_33_black">#33000000</color>
+    <color name="translucent_11_black">#11000000</color>
+    <color name="translucent_99_white">#99FFFFFF</color>
+    <color name="translucent_66_white">#66FFFFFF</color>
+    <color name="translucent_33_white">#33FFFFFF</color>
+    <color name="translucent_11_white">#11FFFFFF</color>
+    <color name="translucent_e5_white">#e5ffffff</color>
+    <color name="translucent_99_blue">#99167efc</color>
+    <color name="translucent_33_blue">#33167efc</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="default_font_color">#333333</color>
+    <color name="black">#FF000000</color>
+    <color name="shallow_black">#353535</color>
+    <color name="gray_33">#FF333333</color>
+    <color name="gray_3d">#FF3d3d3d</color>
+    <color name="gray_66">#FF666666</color>
+    <color name="gray_99">#FF999999</color>
+    <color name="gray_AE">#FFAEAEAE</color>
+    <color name="gray_FE">#FFFEFEFE</color>
+    <color name="gray_EE">#FFEEEEEE</color>
+    <color name="gray_F7">#FFF7F7F7</color>
+    <color name="gray_DF">#FFDFDFDF</color>
+    <color name="gray_13">#FF131313</color>
+    <color name="gray_21">#FF212121</color>
+    <color name="gray_45">#FF454545</color>
+    <color name="gray_46">#FF464646</color>
+    <color name="gray_E6">#FFE6E6E6</color>
+    <color name="gray_D4">#FFD4D4D4</color>
+    <color name="gray_83">#FF838383</color>
+    <color name="gray_f0">#FFF0F0F0</color>
+    <color name="gray_f8">#FFF8F8F8</color>
+    <color name="gray_aa">#FFaaaaaa</color>
+    <color name="gray_b1">#FFB1B1B1</color>
+    <color name="gray_b6">#FFB6B6B6</color>
+    <color name="gray_ba">#FFBABABA</color>
+    <color name="gray_5c">#FF5C5C5C</color>
+    <color name="gray_9b">#FF9B9B9B</color>
+    <color name="gray">#666666</color>
+    <color name="gray_CC">#FFCCCCCC</color>
+    <color name="gray_color">#919191</color>
+    <color name="gray_shallow">#f2f2f2</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="setting_item_bgt_click">#FFF4EFEC</color>
+    <color name="setting_item_txt_left_click">#FFE9775C</color>
+    <color name="sort_item_bg_click">#FFF4EFEC</color>
+    <color name="sort_item_line">#FFE5D4C2</color>
+    <color name="entry_item_mask">#4C211b19</color>
+    <color name="notice_success">#CC207B9A</color>
+    <color name="notice_error">#CCE56A45</color>
+    <color name="line_weather">#F7C783</color>
+    <color name="txt_weather_up">#EA6C44</color>
+    <color name="txt_weather_down">#2F95D5</color>
+    <color name="holo_dialog_item">#FF307d98</color>
+    <color name="transparent_background">#F0000000</color>
+    <color name="sc_transparent">#00ffffff</color>
+    <color name="default_color">#d9d9d9</color>
+    <color name="list_dialog_color">#fafafa</color>
+    <color name="blue_color">#187efe</color>
+    <color name="blue_light_color">#8abefd</color>
+    <color name="red_color">#e53939</color>
+    <color name="red_text_color">#c10d01</color>
+    <color name="red_luckymoney_color">#e53335</color>
+    <color name="orange_color">#ff7800</color>
+    <color name="green_color">#4dd963</color>
+    <color name="green_text_color">#0f990f</color>
+    <color name="text_color">#aaaaaa</color>
+    <color name="text_click_color">#5a6d97</color>
+    <color name="text_click_color_p">#32466c</color>
+    <color name="text_title_black">#363636</color>
+    <color name="highlight">#f3f3f3</color>
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+    <color name="text_title_blue">#167efc</color>
+    <color name="divider_list">#e8e8e8</color>
+    <color name="light_blue">#fff0f9ff</color>
+    <color name="light_blue2">#ffddf1fe</color>
+    <color name="light_blue_pressed">#ffc0c7cc</color>
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_text_white">#ffffff</color>
+
+    <!-- A light Holo shade of blue -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <!-- A light Holo shade of green -->
+    <color name="holo_green_light">#ff99cc00</color>
+    <!-- A light Holo shade of red -->
+    <color name="holo_red_light">#ffff4444</color>
+    <!-- A dark Holo shade of blue -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <!-- A dark Holo shade of green -->
+    <color name="holo_green_dark">#ff669900</color>
+    <!-- A dark Holo shade of red -->
+    <color name="holo_red_dark">#ffcc0000</color>
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#ffaa66cc</color>
+    <!-- A light Holo shade of orange -->
+    <color name="holo_orange_light">#ffffbb33</color>
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+    <!-- A really bright Holo shade of blue -->
+    <color name="holo_blue_bright">#ff00ddff</color>
+</resources>

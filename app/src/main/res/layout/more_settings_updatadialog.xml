@@ -1,0 +1,123 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/NoTitleDialog"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    android:background="@color/gray_FE"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/MSU_ll_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/MSU_tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingBottom="15dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="15dp"
+            android:text="@string/text493"
+            android:textColor="@color/shallow_black"
+            android:textSize="@dimen/font_size_17" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:background="@color/blue_color" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fadingEdge="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/MSU_tv_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingBottom="15dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:paddingTop="15dp"
+                android:minHeight="60dp"
+                android:lineSpacingExtra="2dp"
+                android:text="@string/text494"
+                android:gravity="center_vertical"
+                android:textColor="@color/shallow_black"
+                android:textSize="@dimen/font_size_14" />
+
+            <EditText
+                android:id="@+id/MSU_ed_remark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@null"
+                android:hint="请输入备注信息"
+                android:paddingTop="20dp"
+                android:paddingBottom="20dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:visibility="gone"
+                android:textSize="@dimen/font_size_14">
+
+                <requestFocus />
+            </EditText>
+        </LinearLayout>
+    </ScrollView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/gray_ba" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/MSU_btn_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/listview_item_white"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="@string/text495"
+            android:textColor="@color/text_click_color" />
+
+        <View
+            android:id="@+id/MSU_view_line"
+            android:layout_width="0.1dp"
+            android:layout_height="match_parent"
+            android:background="@color/gray_ba" />
+
+        <Button
+            android:id="@+id/MSU_btn_certain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/listview_item_white"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:text="@string/text496"
+            android:textColor="@color/text_click_color" >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>	
